@@ -1,0 +1,45 @@
+aig 69 12 11 10 46
+51
+53
+2
+67
+59
+1
+73
+65
+64
+77
+87
+90
+100
+104
+108
+112
+116
+120
+124
+128
+138
+  /2R&W,,`eimqu y$}(G J †2i0 in_mclk
+i1 in_i_9
+i2 in_i_8
+i3 in_i_7
+i4 in_i_6
+i5 in_i_5
+i6 in_i_4
+i7 in_i_3
+i8 in_i_2
+i9 in_i_10
+i10 in_i_1
+i11 in_i_0
+l0 imp.ff_2_q imp.o_6 imp_o_6
+l1 imp.ff_1_q imp.o_4 imp_o_4
+l2 imp.mclk mclk_prime ref.mclk
+l3 ref.ff_2_f2q
+l4 ref.ff_2_f1q
+l5 ref.ff_1_f2q
+l6 ref.ff_1_f1q
+l7 ref.ff_0_f2q
+l8 ref.ff_0_f1q
+l9 imp.ff_0_q
+l10 AIGMOVE_INVALID_LATCH

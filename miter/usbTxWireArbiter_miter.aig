@@ -1,0 +1,61 @@
+aig 160 16 17 8 127
+89
+107
+2
+138
+113
+156
+145
+170
+163
+180
+118
+182
+124
+197
+213
+221
+231
+248
+258
+270
+282
+286
+298
+308
+320
+0(5B-4<8UT?DD;?=A6kx``t‹Šn
+n&f„Œ4d¤Ÿ|t.~aN™
+ˆˆ(jVnÀ©–½±·$º$â¢EgHeÍĞó‰NŒNşïò‰&ùü(•2›6…ˆ8¥B›ll°L—šN»Xi0 in_mclk
+i1 in_i_9
+i2 in_i_8
+i3 in_i_7
+i4 in_i_6
+i5 in_i_5
+i6 in_i_4
+i7 in_i_3
+i8 in_i_2
+i9 in_i_14
+i10 in_i_13
+i11 in_i_12
+i12 in_i_11
+i13 in_i_10
+i14 in_i_1
+i15 in_i_0
+l0 imp.ff_4_q imp.o_7 imp_o_7
+l1 imp.ff_3_q imp.o_2 imp_o_2
+l2 imp.mclk mclk_prime ref.mclk
+l3 ref.ff_4_f2q
+l4 ref.ff_4_f1q
+l5 ref.ff_3_f2q
+l6 ref.ff_3_f1q
+l7 ref.ff_2_f2q
+l8 ref.ff_2_f1q
+l9 ref.ff_1_f2q
+l10 ref.ff_1_f1q
+l11 ref.ff_0_f2q
+l12 ref.ff_0_f1q
+l13 imp.ff_2_q
+l14 imp.ff_1_q
+l15 imp.ff_0_q
+l16 AIGMOVE_INVALID_LATCH

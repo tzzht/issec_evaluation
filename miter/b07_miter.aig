@@ -1,0 +1,72 @@
+aig 128 3 29 8 96
+70
+72
+74
+76
+78
+80
+82
+84
+2
+100
+91
+103
+96
+110
+109
+118
+117
+126
+125
+134
+133
+142
+141
+150
+149
+158
+157
+166
+177
+186
+196
+206
+216
+226
+236
+246
+256
+9)=;97	531/<<;?[\F
+F
+JJNNRR"VV*ZZ2^"^#:b:‡e'’¬nEdHd¶GjJjÀIpLpÊKvNvÔ&M|P|Ş0O‚R‚è:QˆTˆòDD DüNi0 in_mclk
+i1 in_i_1
+i2 in_i_0
+l0 imp.ff_6_q imp.o_7 imp_o_7
+l1 imp.ff_5_q imp.o_6 imp_o_6
+l2 imp.ff_4_q imp.o_5 imp_o_5
+l3 imp.ff_3_q imp.o_4 imp_o_4
+l4 imp.ff_2_q imp.o_3 imp_o_3
+l5 imp.ff_1_q imp.o_2 imp_o_2
+l6 imp.ff_0_q imp.o_1 imp_o_1
+l7 imp.ff_8_q imp.o_0 imp_o_0
+l8 imp.mclk mclk_prime ref.mclk
+l9 ref.ff_8_f2q
+l10 ref.ff_8_f1q
+l11 ref.ff_7_f2q
+l12 ref.ff_7_f1q
+l13 ref.ff_6_f2q
+l14 ref.ff_6_f1q
+l15 ref.ff_5_f2q
+l16 ref.ff_5_f1q
+l17 ref.ff_4_f2q
+l18 ref.ff_4_f1q
+l19 ref.ff_3_f2q
+l20 ref.ff_3_f1q
+l21 ref.ff_2_f2q
+l22 ref.ff_2_f1q
+l23 ref.ff_1_f2q
+l24 ref.ff_1_f1q
+l25 ref.ff_0_f2q
+l26 ref.ff_0_f1q
+l27 imp.ff_7_q
+l28 AIGMOVE_INVALID_LATCH
